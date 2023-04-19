@@ -10,6 +10,7 @@
     - ANN(3 layers), for hidden layer  we took 50 nodes
  -Result:
   - Logistic Regression:
+  
                     precision    recall  f1-score   support
 
                0       1.00      0.99      0.99       982
@@ -20,6 +21,7 @@
     
     
   - ANN:
+  
                       precision    recall  f1-score   support
 
                0       1.00      0.99      0.99       982

@@ -16,8 +16,9 @@
                1       0.98      1.00      0.99       467
 
         accuracy                           0.99      1449
-       macro avg       0.99      0.99      0.99      1449
-    weighted avg       0.99      0.99      0.99      1449
+
+    
+    
   - ANN:
                       precision    recall  f1-score   support
 

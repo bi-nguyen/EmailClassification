@@ -22,7 +22,7 @@
     
     - ANN:
   
-                      precision    recall  f1-score   support
+                    precision    recall  f1-score   support
 
                0       1.00      0.99      0.99       982
                1       0.97      1.00      0.98       467

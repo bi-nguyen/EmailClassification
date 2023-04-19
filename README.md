@@ -8,7 +8,7 @@
  - For this project , I tested the data with two models:
     - LogisticRegression(solver='lbfgs',multi_class = 'multinomial',penalty='l2',C=10000000)
     - ANN(3 layers), for hidden layer  we took 50 nodes
- -Result:
+ - Result:
   - Logistic Regression:
   
                     precision    recall  f1-score   support

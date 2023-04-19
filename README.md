@@ -21,7 +21,7 @@
   
 ![image](https://user-images.githubusercontent.com/106424285/232962217-08b617b6-8d42-4d36-9e06-4d785470aa29.png)
 
- - From 2 results above, i decided to use logistic . Because two models give the same accuracy but the model logistic regression help to save time computation.
+ - From two results above, i decided to use logistic . Because two models give the same accuracy but the model logistic regression help to save time computation.
 # Experiment:
  - I built an application by pyqt5
   ![image](https://user-images.githubusercontent.com/106424285/232960794-743a226e-b0f6-4c7c-a012-e40ca636ef50.png)

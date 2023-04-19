@@ -15,7 +15,6 @@
 
                0       1.00      0.99      0.99       982
                1       0.98      1.00      0.99       467
-
         accuracy                           0.99      1449
 
     
@@ -26,7 +25,6 @@
 
                0       1.00      0.99      0.99       982
                1       0.97      1.00      0.98       467
-
         accuracy                           0.99      1449
 
  - From 2 results above, i decided to use logistic . Because two models give the same accuracy but the model logistic regression help to save time computation.

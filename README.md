@@ -11,23 +11,12 @@
  - Result:
     - Logistic Regression:
   
-              precision    recall  f1-score   support
-
-           0       1.00      0.99      0.99       982
-           1       0.98      1.00      0.99       467
-
-    accuracy                           0.99      1449
 
     
     
     - ANN:
   
-              precision    recall  f1-score   support
-
-           0       1.00      0.99      0.99       982
-           1       0.97      1.00      0.98       467
-
-    accuracy                           0.99      1449
+![image](https://user-images.githubusercontent.com/106424285/232962217-08b617b6-8d42-4d36-9e06-4d785470aa29.png)
 
  - From 2 results above, i decided to use logistic . Because two models give the same accuracy but the model logistic regression help to save time computation.
 # Experiment:

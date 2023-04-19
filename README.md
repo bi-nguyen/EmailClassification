@@ -28,7 +28,7 @@
         accuracy                           0.99      1449
 
  - From 2 results above, i decided to use logistic . Because two models give the same accuracy but the model logistic regression help to save time computation.
- Experiment:
- I built an application by pyqt5
- ![image](https://user-images.githubusercontent.com/106424285/232960794-743a226e-b0f6-4c7c-a012-e40ca636ef50.png)
- Here, I use an email that is spam . As you can see that, My application also give Spam
+# Experiment:
+ - I built an application by pyqt5
+  ![image](https://user-images.githubusercontent.com/106424285/232960794-743a226e-b0f6-4c7c-a012-e40ca636ef50.png)
+ - Here, I use an email that is spam . As you can see that, My application also give Spam

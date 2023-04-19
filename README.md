@@ -10,6 +10,8 @@
     - ANN(3 layers), for hidden layer  we took 50 nodes
  - Result:
     - Logistic Regression:
+
+
   ![image](https://user-images.githubusercontent.com/106424285/232962273-8fdb67ca-9bc6-45f0-bf0d-3add983ff001.png)
 
 
